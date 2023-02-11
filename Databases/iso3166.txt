@@ -1,0 +1,250 @@
+NAME	A2	A3	NUM	NEV
+Afghanistan	AF	AFG	4	Afganisztán
+Aland Islands	AX	ALA	248	Aland
+Albania	AL	ALB	8	Albánia
+Algeria	DZ	DZA	12	Algéria
+American Samoa	AS	ASM	16	Amerikai Szamoa
+Andorra	AD	AND	20	Andorra
+Angola	AO	AGO	24	Angola
+Anguilla	AI	AIA	660	Anguilla
+Antarctica	AQ	ATA	10	Anktartisz
+Antigua and Barbuda	AG	ATG	28	Antigua és Barbuda
+Argentina	AR	ARG	32	Argentina
+Armenia	AM	ARM	51	Örményország
+Aruba	AW	ABW	533	Aruba
+Australia	AU	AUS	36	Ausztrália
+Austria	AT	AUT	40	Ausztria
+Azerbaijan	AZ	AZE	31	Azerbajdzsán
+Bahamas (the)	BS	BHS	44	Bahama-szigetek
+Bahrain	BH	BHR	48	Bahrein
+Bangladesh	BD	BGD	50	Banglades
+Barbados	BB	BRB	52	Barbados
+Belarus	BY	BLR	112	Belorusszia
+Belgium	BE	BEL	56	Belgium
+Belize	BZ	BLZ	84	Belize
+Benin	BJ	BEN	204	Benin
+Bermuda	BM	BMU	60	Bermuda
+Bhutan	BT	BTN	64	Bhután
+Bolivia, Plurinational State of	BO	BOL	68	Bolívia
+Bonaire, Sint Eustatius and Saba	BQ	BES	535	Bonaire, Sint Eustatius és Saba
+Bosnia and Herzegovina	BA	BIH	70	Bosznia-Hercegovina
+Botswana	BW	BWA	72	Botswana
+Bouvet Island	BV	BVT	74	Bouvet-sziget
+Brazil	BR	BRA	76	Brazília
+British Indian Ocean Territory (the)	IO	IOT	86	Brit Indiai-óceáni Terület
+Brunei Darussalam	BN	BRN	96	Brunei
+Bulgaria	BG	BGR	100	Bulgária
+Burkina Faso	BF	BFA	854	Burkina Faso
+Burundi	BI	BDI	108	Burundi
+Cabo Verde	CV	CPV	132	Zöld-foki Köztársaság
+Cambodia	KH	KHM	116	Kambodzsa
+Cameroon	CM	CMR	120	Kamerun
+Canada	CA	CAN	124	Kanada
+Cayman Islands (the)	KY	CYM	136	Kajmán-szigetek
+Central African Republic (the)	CF	CAF	140	Közép-afrikai Köztársaság
+Chad	TD	TCD	148	Csád
+Chile	CL	CHL	152	Chile
+China	CN	CHN	156	Kína
+Christmas Island	CX	CXR	162	Karácsony-sziget
+Cocos (Keeling) Islands (the)	CC	CCK	166	Kókusz-sziget
+Colombia	CO	COL	170	Kolumbia
+Comoros	KM	COM	174	Comore-szigetek
+Congo	CG	COG	178	Kongó
+Congo (the Democratic Republic of the)	CD	COD	180	Kongói Demokratikus Köztársaság
+Cook Islands (the)	CK	COK	184	Cook-szigetek
+Costa Rica	CR	CRI	188	Costa Rica
+Côte d'Ivoire	CI	CIV	384	Elefántcsontpart
+Croatia	HR	HRV	191	Horvátország
+Cuba	CU	CUB	192	Kuba
+Curaçao	CW	CUW	531	Curaçao
+Cyprus	CY	CYP	196	Ciprus
+Czech Republic (the)	CZ	CZE	203	Csehország
+Denmark	DK	DNK	208	Dánia
+Djibouti	DJ	DJI	262	Dzsibuti
+Dominica	DM	DMA	212	Dominika
+Dominican Republic (the)	DO	DOM	214	Dominikai Köztársaság
+Ecuador	EC	ECU	218	Ecuador
+Egypt	EG	EGY	818	Egyiptom
+El Salvador	SV	SLV	222	Salvador
+Equatorial Guinea	GQ	GNQ	226	Egyenlítõi Guinea
+Eritrea	ER	ERI	232	Eritrea
+Estonia	EE	EST	233	Észtország
+Ethiopia	ET	ETH	231	Etiópia
+Falkland Islands (the) [Malvinas]	FK	FLK	238	Falkland-szigetek
+Faroe Islands (the)	FO	FRO	234	Feröer
+Fiji	FJ	FJI	242	Fidzsi-szigetek
+Finland	FI	FIN	246	Finnország
+France	FR	FRA	250	Franciaország
+French Guiana	GF	GUF	254	Francia Guyana
+French Polynesia	PF	PYF	258	Francia Polinézia
+French Southern Territories (the)	TF	ATF	260	Francia déli és antarktiszi területek
+Gabon	GA	GAB	266	Gabon
+Gambia (The)	GM	GMB	270	Gambia
+Georgia	GE	GEO	268	Grúzia
+Germany	DE	DEU	276	Németország
+Ghana	GH	GHA	288	Ghána
+Gibraltar	GI	GIB	292	Gibraltár
+Greece	GR	GRC	300	Görögország
+Greenland	GL	GRL	304	Grönland
+Grenada	GD	GRD	308	Grenada
+Guadeloupe	GP	GLP	312	Guadeloupe
+Guam	GU	GUM	316	Guam
+Guatemala	GT	GTM	320	Guatemala
+Guernsey	GG	GGY	831	Guernsey
+Guinea	GN	GIN	324	Guinea
+Guinea-Bissau	GW	GNB	624	Bissau-Guinea
+Guyana	GY	GUY	328	Guyana
+Haiti	HT	HTI	332	Haiti
+Heard Island and McDonald Islands	HM	HMD	334	Heard-sziget és McDonald-szigetek
+Holy See (the) [Vatican City State]	VA	VAT	336	Vatikán
+Honduras	HN	HND	340	Honduras
+Hong Kong	HK	HKG	344	Hong Kong
+Hungary	HU	HUN	348	Magyarország
+Iceland	IS	ISL	352	Izland
+India	IN	IND	356	India
+Indonesia	ID	IDN	360	Indonézia
+Iran (the Islamic Republic of)	IR	IRN	364	Irán
+Iraq	IQ	IRQ	368	Irak
+Ireland	IE	IRL	372	Írország
+Isle of Man	IM	IMN	833	Man-sziget
+Israel	IL	ISR	376	Izrael
+Italy	IT	ITA	380	Olaszország
+Jamaica	JM	JAM	388	Jamaica
+Japan	JP	JPN	392	Japán
+Jersey	JE	JEY	832	Jersey
+Jordan	JO	JOR	400	Jordánia
+Kazakhstan	KZ	KAZ	398	Kazahsztán
+Kenya	KE	KEN	404	Kenya
+Kiribati	KI	KIR	296	Kiribati
+Korea (the Democratic People's Republic of)	KP	PRK	408	Észak-Korea
+Korea (the Republic of)	KR	KOR	410	Dél-Korea
+Kuwait	KW	KWT	414	Kuvait
+Kyrgyzstan	KG	KGZ	417	Kirgizisztán
+Lao People's Democratic Republic (the)	LA	LAO	418	Laosz
+Latvia	LV	LVA	428	Lettország
+Lebanon	LB	LBN	422	Libanon
+Lesotho	LS	LSO	426	Lesotho
+Liberia	LR	LBR	430	Libéria
+Libya	LY	LBY	434	Líbia
+Liechtenstein	LI	LIE	438	Liechtenstein
+Lithuania	LT	LTU	440	Litvánia
+Luxembourg	LU	LUX	442	Luxemburg
+Macao	MO	MAC	446	Macao
+Macedonia (the former Yugoslav Republic of)	MK	MKD	807	Macedónia
+Madagascar	MG	MDG	450	Madagaszkár
+Malawi	MW	MWI	454	Malawi
+Malaysia	MY	MYS	458	Malajzia
+Maldives	MV	MDV	462	Maldiv-szigetek
+Mali	ML	MLI	466	Mali
+Malta	MT	MLT	470	Málta
+Marshall Islands (the)	MH	MHL	584	Marshall-szigetek
+Martinique	MQ	MTQ	474	Martinique
+Mauritania	MR	MRT	478	Mauritánia
+Mauritius	MU	MUS	480	Mauritius
+Mayotte	YT	MYT	175	Mayotte
+Mexico	MX	MEX	484	Mexikó
+Micronesia (the Federated States of)	FM	FSM	583	Mikronézia
+Moldova (the Republic of)	MD	MDA	498	Moldova
+Monaco	MC	MCO	492	Monaco
+Mongolia	MN	MNG	496	Mongólia
+Montenegro	ME	MNE	499	Montenegro
+Montserrat	MS	MSR	500	Montserrat
+Morocco	MA	MAR	504	Marokkó
+Mozambique	MZ	MOZ	508	Mozambik
+Myanmar	MM	MMR	104	Miamar
+Namibia	NA	NAM	516	Namíbia
+Nauru	NR	NRU	520	Narau
+Nepal	NP	NPL	524	Nepál
+Netherlands (the)	NL	NLD	528	Hollandia
+New Caledonia	NC	NCL	540	Új-Kaledónia
+New Zealand	NZ	NZL	554	Új-Zéland
+Nicaragua	NI	NIC	558	Nicaragua
+Niger (the)	NE	NER	562	Niger
+Nigeria	NG	NGA	566	Nigéria
+Niue	NU	NIU	570	Niue
+Norfolk Island	NF	NFK	574	Norfolk-sziget
+Northern Mariana Islands (the)	MP	MNP	580	Északi-Mariana-szigetek
+Norway	NO	NOR	578	Norvégia
+Oman	OM	OMN	512	Oman
+Pakistan	PK	PAK	586	Pakisztán
+Palau	PW	PLW	585	Palau
+Palestine, State of	PS	PSE	275	Palesztína
+Panama	PA	PAN	591	Panama
+Papua New Guinea	PG	PNG	598	Pápua Új-Guinea
+Paraguay	PY	PRY	600	Paraguay
+Peru	PE	PER	604	Peru
+Philippines (the)	PH	PHL	608	Fülöp-szigetek
+Pitcairn	PN	PCN	612	Pitcairn-szigetek
+Poland	PL	POL	616	Lengyelország
+Portugal	PT	PRT	620	Portugália
+Puerto Rico	PR	PRI	630	Puerto Rico
+Qatar	QA	QAT	634	Katar
+Réunion	RE	REU	638	Réunion
+Romania	RO	ROU	642	Románia
+Russian Federation (the)	RU	RUS	643	Oroszország
+Rwanda	RW	RWA	646	Ruanda
+Saint Barthélemy	BL	BLM	652	Saint-Barthélemy
+Saint Helena, Ascension and Tristan da Cunha	SH	SHN	654	Szent Ilona, Ascension és Tristan da Cunha
+Saint Kitts and Nevis	KN	KNA	659	Saint Kitts és Nevis
+Saint Lucia	LC	LCA	662	Szent Lucia
+Saint Martin (French part)	MF	MAF	663	Szent Márton-sziget (Francia rész)
+Saint Pierre and Miquelon	PM	SPM	666	Saint-Pierre és Miquelon
+Saint Vincent and the Grenadines	VC	VCT	670	Saint Vincent és a Grenadine-szigetek
+Samoa	WS	WSM	882	Szamoa
+San Marino	SM	SMR	674	San Marino
+Sao Tome and Principe	ST	STP	678	Sao Tomé
+Saudi Arabia	SA	SAU	682	Szaud-Arábia
+Senegal	SN	SEN	686	Szenegál
+Serbia	RS	SRB	688	Szerbia
+Seychelles	SC	SYC	690	Seychelle-szigetek
+Sierra Leone	SL	SLE	694	Sierra Leone
+Singapore	SG	SGP	702	Szingapúr
+Sint Maarten (Dutch part)	SX	SXM	534	Szent Márton-sziget (Holland rész)
+Slovakia	SK	SVK	703	Szlovákia
+Slovenia	SI	SVN	705	Szlovénia
+Solomon Islands (the)	SB	SLB	90	Salamon-szigetek
+Somalia	SO	SOM	706	Szomália
+South Africa	ZA	ZAF	710	Dél-afrikai Köztársaság
+South Georgia and the South Sandwich Islands	GS	SGS	239	Déli-Georgia és Déli-Sandwich-szigetek
+South Sudan 	SS	SSD	728	Dél-Szudán
+Spain	ES	ESP	724	Spanyolország
+Sri Lanka	LK	LKA	144	Sri Lanka
+Sudan (the)	SD	SDN	729	Szudán
+Suriname	SR	SUR	740	Suriname
+Svalbard and Jan Mayen	SJ	SJM	744	Svalbard and Jan Mayen
+Swaziland	SZ	SWZ	748	Szváziföld
+Sweden	SE	SWE	752	Svédország
+Switzerland	CH	CHE	756	Svájc
+Syrian Arab Republic (the)	SY	SYR	760	Szíria
+Taiwan (Province of China)	TW	TWN	158	Kínai Köztársaság (Tajvan)
+Tajikistan	TJ	TJK	762	Tadzsikisztán
+Tanzania, United Republic of	TZ	TZA	834	Tanzánia
+Thailand	TH	THA	764	Thaiföld
+Timor-Leste	TL	TLS	626	Kelet-Timor
+Togo	TG	TGO	768	Togo
+Tokelau	TK	TKL	772	Tokelau-szigetek
+Tonga	TO	TON	776	Tonga
+Trinidad and Tobago	TT	TTO	780	Trinidad és Tobago
+Tunisia	TN	TUN	788	Tunézia
+Turkey	TR	TUR	792	Törökország
+Turkmenistan	TM	TKM	795	Türkmenisztán
+Turks and Caicos Islands (the)	TC	TCA	796	Turks- és Caicos-szigetek
+Tuvalu	TV	TUV	798	Tuvalu
+Uganda	UG	UGA	800	Uganda
+Ukraine	UA	UKR	804	Ukrajna
+United Arab Emirates (the)	AE	ARE	784	Egyesült Arab Emírségek
+United Kingdom (the)	GB	GBR	826	Nagy-Britannia
+United States (the)	US	USA	840	Amerikai Egyesült Államok
+United States Minor Outlying Islands (the)	UM	UMI	581	Az Amerikai Egyesült Államok lakatlan külbirtokai
+Uruguay	UY	URY	858	Uruguay
+Uzbekistan	UZ	UZB	860	Üzbegisztán
+Vanuatu	VU	VUT	548	Vanuatu
+Venezuela, Bolivarian Republic of 	VE	VEN	862	Venezuela
+Viet Nam	VN	VNM	704	Vietnam
+Virgin Islands (British)	VG	VGB	92	Brit Virgin-szigetek
+Virgin Islands (U.S.)	VI	VIR	850	Amerikai Virgin-szigetek
+Wallis and Futuna	WF	WLF	876	Wallis és Futuna
+Western Sahara*	EH	ESH	732	Nyugat-Szahara
+Yemen	YE	YEM	887	Jemen
+Zambia	ZM	ZMB	894	Zambia
+Zimbabwe	ZW	ZWE	716	Zimbabwe
